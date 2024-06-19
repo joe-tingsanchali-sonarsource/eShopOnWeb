@@ -7,3 +7,5 @@ function checkEqual(a, b) {
   }
   
   console.log(checkEqual(0, false)); // Output: "Equal"
+  
+  var i =0;
